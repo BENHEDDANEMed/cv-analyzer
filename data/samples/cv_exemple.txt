@@ -1,0 +1,43 @@
+Sara EL AMRANI
+Étudiante ingénieure en Data Science - Casablanca
+sara.elamrani@email.com | +212 6 00 00 00 00
+
+PROFIL
+Étudiante en 5ème année du cycle ingénieur, passionnée par l'apprentissage automatique
+et le traitement du langage naturel. Curieuse, autonome et rigoureuse.
+
+EXPÉRIENCES PROFESSIONNELLES
+Stagiaire Data Scientist - OCP Group
+Juillet 2025 - Septembre 2025
+• Développement d'un modèle de classification des réclamations clients avec scikit-learn
+• Nettoyage et analyse de données avec Pandas et NumPy
+• Création de tableaux de bord avec Power BI pour l'équipe métier
+
+Stagiaire Développeuse Python - Startup FinTech
+02/2024 - 05/2024
+• Développement d'une API REST avec Flask et PostgreSQL
+• Mise en place de tests unitaires avec pytest et gestion du code avec Git
+
+FORMATION
+Cycle ingénieur - Intelligence Artificielle et Data Science, EMSI Casablanca
+2022 - 2027
+Classes préparatoires intégrées
+2020 - 2022
+Baccalauréat Sciences Mathématiques
+2020
+
+PROJETS
+- Chatbot de FAQ universitaire avec des embeddings et Sentence-Transformers
+- Classification d'images de radiographies avec PyTorch (réseaux de neurones convolutifs)
+- Tableau de bord de suivi des ventes avec Streamlit et Plotly
+
+COMPÉTENCES TECHNIQUES
+Langages : Python, SQL, Java
+Data & IA : Pandas, NumPy, scikit-learn, PyTorch, Matplotlib
+Outils : Git, Docker, Linux, Power BI
+
+LANGUES
+Français (courant), Anglais (B2), Arabe (langue maternelle)
+
+QUALITÉS
+Travail en équipe, communication, esprit d'analyse

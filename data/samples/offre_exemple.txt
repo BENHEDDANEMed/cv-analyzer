@@ -1,0 +1,19 @@
+Offre de stage PFE - Data Scientist NLP (H/F) - Casablanca
+
+Missions :
+- Concevoir des modèles de traitement du langage naturel pour analyser les avis clients
+- Mettre en place une solution RAG basée sur des LLM pour répondre aux questions des conseillers
+- Déployer les modèles sous forme d'API avec FastAPI et Docker
+- Suivre les expériences avec MLflow et présenter les résultats aux équipes métier
+
+Profil recherché :
+- Étudiant(e) en dernière année d'école d'ingénieur ou Master (Bac+5) en Data Science / IA
+- Première expérience de 1 an minimum (stages inclus) en data science
+- Maîtrise de Python, SQL et des librairies de Machine Learning
+- Bonne connaissance du Deep Learning et des frameworks Hugging Face
+- Esprit d'équipe, autonomie et bonne communication
+- Anglais professionnel
+
+Serait un plus :
+- Connaissance d'un cloud (AWS ou Azure)
+- Expérience avec LangChain
